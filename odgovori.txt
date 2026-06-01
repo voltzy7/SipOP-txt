@@ -1,0 +1,35 @@
+1. Kaj je OS?
+OS (operacijski sistem) je programska oprema, ki upravlja strojno opremo računalnika in omogoča delovanje programov. Primeri: Windows, Linux, macOS.
+
+2. Tri naloge operacijskega sistema:
+- Upravljanje procesov.
+- Upravljanje pomnilnika.
+- Upravljanje datotek in naprav.
+
+3. Razlike med Windows, Linux in macOS:
+- Windows: najbolj razširjen, enostaven za uporabo.
+- Linux: odprtokoden, priljubljen med programerji in strežniki.
+- macOS: Apple operacijski sistem, deluje samo na Mac napravah.
+
+4. Kaj pomeni, da se OS naloži ob zagonu?
+Ko vklopimo računalnik, se operacijski sistem naloži v pomnilnik in začne upravljati računalnik.
+
+5. Kaj je gonilnik?
+Gonilnik (driver) je programska oprema, ki omogoča komunikacijo med operacijskim sistemom in strojno opremo.
+
+6. Kje potrebujemo gonilnike?
+Za tiskalnike, grafične kartice, miške, tipkovnice, zvočne kartice in druge naprave.
+
+7. HDD vs SSD:
+HDD:
+- Mehanski disk.
+- Cenejši.
+- Počasnejši.
+
+SSD:
+- Brez gibljivih delov.
+- Hitrejši.
+- Dražji.
+
+8. Kaj je particija?
+Particija je logična razdelitev diska na več delov. Na enem disku imamo lahko več particij (npr. C: in D:).
